@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="login_box_color">#a111305d</color>
+    <color name="colorPrimary">#2005b9</color>
+    <color name="colorPrimaryDark">#003ac1</color>
+    <color name="colorAccent">#ff095c</color>
+    <color name="signin_btn_clr">#ff095c</color>
+    <color name="faded_input_background">#88000000</color>
+    <color name="component_border_color">#a1a1a1</color>
+    <color name="listview_item_color">#312e09ff</color>
 </resources>

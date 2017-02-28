@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Restaurant Menu</string>
+    <string name="login_title">Restaurant\nMenu</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username">Username...</string>
+    <string name="password">Password...</string>
+    <string name="loginsc_bg">login screen background</string>
 </resources>
